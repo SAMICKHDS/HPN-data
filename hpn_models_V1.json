@@ -14814,5 +14814,3093 @@
     "ratio": 50,
     "model": "FCJ-DC1",
     "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_FCJ-DC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK21(100K)",
+    "size": 11,
+    "ratio": 10,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK21(100K)",
+    "size": 11,
+    "ratio": 15,
+    "model": "AAH-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK21(100K)",
+    "size": 11,
+    "ratio": 20,
+    "model": "AAH-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK21(100K)",
+    "size": 11,
+    "ratio": 25,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK21(100K)",
+    "size": 11,
+    "ratio": 30,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK21(100K)",
+    "size": 11,
+    "ratio": 35,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK21(100K)",
+    "size": 11,
+    "ratio": 40,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK21(100K)",
+    "size": 11,
+    "ratio": 45,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK21(100K)",
+    "size": 11,
+    "ratio": 50,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK21(100K)",
+    "size": 14,
+    "ratio": 45,
+    "model": "ABA-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK21(100K)",
+    "size": 14,
+    "ratio": 50,
+    "model": "ABA-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK71(100K)",
+    "size": 11,
+    "ratio": 10,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK71(100K)",
+    "size": 11,
+    "ratio": 15,
+    "model": "AAH-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK71(100K)",
+    "size": 11,
+    "ratio": 20,
+    "model": "AAH-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK71(100K)",
+    "size": 11,
+    "ratio": 25,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK71(100K)",
+    "size": 11,
+    "ratio": 30,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK71(100K)",
+    "size": 11,
+    "ratio": 35,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK71(100K)",
+    "size": 11,
+    "ratio": 40,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK71(100K)",
+    "size": 11,
+    "ratio": 45,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK71(100K)",
+    "size": 11,
+    "ratio": 50,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK71(100K)",
+    "size": 14,
+    "ratio": 45,
+    "model": "ABA-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7011-5AK71(100K)",
+    "size": 14,
+    "ratio": 50,
+    "model": "ABA-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK21(100K)",
+    "size": 11,
+    "ratio": 4,
+    "model": "AAH-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK21(100K)",
+    "size": 11,
+    "ratio": 5,
+    "model": "AAH-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK21(100K)",
+    "size": 11,
+    "ratio": 7,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK21(100K)",
+    "size": 11,
+    "ratio": 10,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK21(100K)",
+    "size": 11,
+    "ratio": 15,
+    "model": "AAH-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK21(100K)",
+    "size": 11,
+    "ratio": 20,
+    "model": "AAH-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK21(100K)",
+    "size": 11,
+    "ratio": 25,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK21(100K)",
+    "size": 11,
+    "ratio": 30,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK21(100K)",
+    "size": 11,
+    "ratio": 35,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK21(100K)",
+    "size": 11,
+    "ratio": 40,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK21(100K)",
+    "size": 14,
+    "ratio": 10,
+    "model": "ABA-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AF1"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK21(100K)",
+    "size": 14,
+    "ratio": 15,
+    "model": "ABA-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK21(100K)",
+    "size": 14,
+    "ratio": 20,
+    "model": "ABA-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK21(100K)",
+    "size": 14,
+    "ratio": 25,
+    "model": "ABA-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK21(100K)",
+    "size": 14,
+    "ratio": 30,
+    "model": "ABA-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK21(100K)",
+    "size": 14,
+    "ratio": 35,
+    "model": "ABA-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK21(100K)",
+    "size": 14,
+    "ratio": 40,
+    "model": "ABA-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK21(100K)",
+    "size": 14,
+    "ratio": 45,
+    "model": "ABA-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK21(100K)",
+    "size": 14,
+    "ratio": 50,
+    "model": "ABA-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK71(100K)",
+    "size": 11,
+    "ratio": 4,
+    "model": "AAH-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK71(100K)",
+    "size": 11,
+    "ratio": 5,
+    "model": "AAH-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK71(100K)",
+    "size": 11,
+    "ratio": 7,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK71(100K)",
+    "size": 11,
+    "ratio": 10,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK71(100K)",
+    "size": 11,
+    "ratio": 15,
+    "model": "AAH-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK71(100K)",
+    "size": 11,
+    "ratio": 20,
+    "model": "AAH-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK71(100K)",
+    "size": 11,
+    "ratio": 25,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK71(100K)",
+    "size": 11,
+    "ratio": 30,
+    "model": "AAH-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK71(100K)",
+    "size": 11,
+    "ratio": 35,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK71(100K)",
+    "size": 11,
+    "ratio": 40,
+    "model": "AAH-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-11A-XX-J_AAH-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK71(100K)",
+    "size": 14,
+    "ratio": 10,
+    "model": "ABA-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AF1"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK71(100K)",
+    "size": 14,
+    "ratio": 15,
+    "model": "ABA-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK71(100K)",
+    "size": 14,
+    "ratio": 20,
+    "model": "ABA-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK71(100K)",
+    "size": 14,
+    "ratio": 25,
+    "model": "ABA-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK71(100K)",
+    "size": 14,
+    "ratio": 30,
+    "model": "ABA-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK71(100K)",
+    "size": 14,
+    "ratio": 35,
+    "model": "ABA-AF1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AF1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK71(100K)",
+    "size": 14,
+    "ratio": 40,
+    "model": "ABA-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK71(100K)",
+    "size": 14,
+    "ratio": 45,
+    "model": "ABA-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7015-5AK71(100K)",
+    "size": 14,
+    "ratio": 50,
+    "model": "ABA-AG1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_ABA-AG1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK21(100K)",
+    "size": 14,
+    "ratio": 3,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK21(100K)",
+    "size": 14,
+    "ratio": 4,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK21(100K)",
+    "size": 14,
+    "ratio": 5,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK21(100K)",
+    "size": 14,
+    "ratio": 7,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK21(100K)",
+    "size": 14,
+    "ratio": 10,
+    "model": "RA-NH2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_RA-NH2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK21(100K)",
+    "size": 20,
+    "ratio": 15,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK21(100K)",
+    "size": 20,
+    "ratio": 20,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK21(100K)",
+    "size": 20,
+    "ratio": 25,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK21(100K)",
+    "size": 20,
+    "ratio": 30,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK21(100K)",
+    "size": 20,
+    "ratio": 35,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK21(100K)",
+    "size": 20,
+    "ratio": 40,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK21(100K)",
+    "size": 20,
+    "ratio": 45,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK21(100K)",
+    "size": 20,
+    "ratio": 50,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK71(100K)",
+    "size": 14,
+    "ratio": 3,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK71(100K)",
+    "size": 14,
+    "ratio": 4,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK71(100K)",
+    "size": 14,
+    "ratio": 5,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK71(100K)",
+    "size": 14,
+    "ratio": 7,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK71(100K)",
+    "size": 14,
+    "ratio": 10,
+    "model": "RA-NH2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_RA-NH2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK71(100K)",
+    "size": 20,
+    "ratio": 15,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK71(100K)",
+    "size": 20,
+    "ratio": 20,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK71(100K)",
+    "size": 20,
+    "ratio": 25,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK71(100K)",
+    "size": 20,
+    "ratio": 30,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK71(100K)",
+    "size": 20,
+    "ratio": 35,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK71(100K)",
+    "size": 20,
+    "ratio": 40,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK71(100K)",
+    "size": 20,
+    "ratio": 45,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7022-5AK71(100K)",
+    "size": 20,
+    "ratio": 50,
+    "model": "RA-NB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_RA-NB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 14,
+    "ratio": 3,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 14,
+    "ratio": 4,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 14,
+    "ratio": 5,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 14,
+    "ratio": 7,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 14,
+    "ratio": 10,
+    "model": "SA-PH2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PH2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 20,
+    "ratio": 4,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 20,
+    "ratio": 5,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 20,
+    "ratio": 7,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 20,
+    "ratio": 10,
+    "model": "DCW-PI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PI2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 20,
+    "ratio": 15,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 20,
+    "ratio": 20,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 20,
+    "ratio": 25,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 20,
+    "ratio": 30,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 20,
+    "ratio": 35,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 20,
+    "ratio": 40,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 20,
+    "ratio": 45,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 20,
+    "ratio": 50,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 32,
+    "ratio": 15,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 32,
+    "ratio": 20,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 32,
+    "ratio": 25,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 32,
+    "ratio": 30,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 32,
+    "ratio": 35,
+    "model": "DCW-PI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 32,
+    "ratio": 40,
+    "model": "DCW-PI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 32,
+    "ratio": 45,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AF21(100K)",
+    "size": 32,
+    "ratio": 50,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 14,
+    "ratio": 3,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 14,
+    "ratio": 4,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 14,
+    "ratio": 5,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 14,
+    "ratio": 7,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 14,
+    "ratio": 10,
+    "model": "SA-PH2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PH2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 20,
+    "ratio": 5,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 20,
+    "ratio": 7,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 20,
+    "ratio": 10,
+    "model": "DCW-PI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PI2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 20,
+    "ratio": 15,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 20,
+    "ratio": 20,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 20,
+    "ratio": 25,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 20,
+    "ratio": 30,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 20,
+    "ratio": 35,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 20,
+    "ratio": 40,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 20,
+    "ratio": 45,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 20,
+    "ratio": 50,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 32,
+    "ratio": 20,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 32,
+    "ratio": 25,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 32,
+    "ratio": 30,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 32,
+    "ratio": 35,
+    "model": "DCW-PC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 32,
+    "ratio": 40,
+    "model": "DCW-PI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 32,
+    "ratio": 45,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7032-5AK71(100K)",
+    "size": 32,
+    "ratio": 50,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 14,
+    "ratio": 3,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 14,
+    "ratio": 4,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 14,
+    "ratio": 5,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 14,
+    "ratio": 7,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 14,
+    "ratio": 10,
+    "model": "SA-PH2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PH2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 20,
+    "ratio": 3,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 20,
+    "ratio": 4,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 20,
+    "ratio": 5,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 20,
+    "ratio": 7,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 20,
+    "ratio": 10,
+    "model": "DCW-PI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PI2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 20,
+    "ratio": 15,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 20,
+    "ratio": 20,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 20,
+    "ratio": 25,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 20,
+    "ratio": 30,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 20,
+    "ratio": 35,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 20,
+    "ratio": 40,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 20,
+    "ratio": 45,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 20,
+    "ratio": 50,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 32,
+    "ratio": 15,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 32,
+    "ratio": 20,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 32,
+    "ratio": 25,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 32,
+    "ratio": 30,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 32,
+    "ratio": 35,
+    "model": "DCW-PI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 32,
+    "ratio": 40,
+    "model": "DCW-PI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 32,
+    "ratio": 45,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AF21(100K)",
+    "size": 32,
+    "ratio": 50,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 14,
+    "ratio": 3,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 14,
+    "ratio": 4,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 14,
+    "ratio": 5,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 14,
+    "ratio": 7,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 14,
+    "ratio": 10,
+    "model": "SA-PH2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PH2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 20,
+    "ratio": 4,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 20,
+    "ratio": 5,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 20,
+    "ratio": 7,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 20,
+    "ratio": 10,
+    "model": "DCW-PI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PI2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 20,
+    "ratio": 15,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 20,
+    "ratio": 20,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 20,
+    "ratio": 25,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 20,
+    "ratio": 30,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 20,
+    "ratio": 35,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 20,
+    "ratio": 40,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 20,
+    "ratio": 45,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 20,
+    "ratio": 50,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 32,
+    "ratio": 20,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 32,
+    "ratio": 25,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 32,
+    "ratio": 30,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 32,
+    "ratio": 35,
+    "model": "DCW-PI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 32,
+    "ratio": 40,
+    "model": "DCW-PI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 32,
+    "ratio": 45,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7033-7AK71(100K)",
+    "size": 32,
+    "ratio": 50,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 14,
+    "ratio": 3,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 14,
+    "ratio": 4,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 14,
+    "ratio": 5,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 14,
+    "ratio": 7,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 14,
+    "ratio": 10,
+    "model": "SA-PH2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PH2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 20,
+    "ratio": 3,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 20,
+    "ratio": 4,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 20,
+    "ratio": 5,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 20,
+    "ratio": 7,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 20,
+    "ratio": 10,
+    "model": "DCW-PI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PI2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 20,
+    "ratio": 15,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 20,
+    "ratio": 20,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 20,
+    "ratio": 25,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 20,
+    "ratio": 30,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 20,
+    "ratio": 35,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 20,
+    "ratio": 40,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 32,
+    "ratio": 15,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 32,
+    "ratio": 20,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 32,
+    "ratio": 25,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 32,
+    "ratio": 30,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 32,
+    "ratio": 35,
+    "model": "DCW-PI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 32,
+    "ratio": 40,
+    "model": "DCW-PI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 32,
+    "ratio": 45,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AF21(100K)",
+    "size": 32,
+    "ratio": 50,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 14,
+    "ratio": 3,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 14,
+    "ratio": 4,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 14,
+    "ratio": 5,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 14,
+    "ratio": 7,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 14,
+    "ratio": 10,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-14A-XX-J_SA-PB2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 20,
+    "ratio": 4,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 20,
+    "ratio": 5,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 20,
+    "ratio": 7,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 20,
+    "ratio": 10,
+    "model": "DCW-PI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_DCW-PI2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 20,
+    "ratio": 15,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 20,
+    "ratio": 20,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 20,
+    "ratio": 25,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 20,
+    "ratio": 30,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 20,
+    "ratio": 35,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 20,
+    "ratio": 40,
+    "model": "SA-PB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_SA-PB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 32,
+    "ratio": 15,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 32,
+    "ratio": 20,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 32,
+    "ratio": 25,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 32,
+    "ratio": 30,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 32,
+    "ratio": 35,
+    "model": "DCW-PI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 32,
+    "ratio": 40,
+    "model": "DCW-PI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 32,
+    "ratio": 45,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7034-5AK71(100K)",
+    "size": 32,
+    "ratio": 50,
+    "model": "DCW-PC1",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_DCW-PC1-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 20,
+    "ratio": 3,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 20,
+    "ratio": 4,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 20,
+    "ratio": 5,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 20,
+    "ratio": 7,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 20,
+    "ratio": 10,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QI2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 20,
+    "ratio": 15,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 20,
+    "ratio": 20,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 20,
+    "ratio": 25,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 20,
+    "ratio": 30,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 20,
+    "ratio": 35,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 20,
+    "ratio": 40,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 20,
+    "ratio": 45,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 32,
+    "ratio": 10,
+    "model": "EES-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_EES-QC2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 32,
+    "ratio": 15,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 32,
+    "ratio": 20,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 32,
+    "ratio": 25,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 32,
+    "ratio": 30,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 32,
+    "ratio": 35,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 32,
+    "ratio": 40,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 32,
+    "ratio": 45,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7040-5AK71(100K)",
+    "size": 32,
+    "ratio": 50,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF21(100K)",
+    "size": 20,
+    "ratio": 3,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF21(100K)",
+    "size": 20,
+    "ratio": 4,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF21(100K)",
+    "size": 20,
+    "ratio": 5,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF21(100K)",
+    "size": 20,
+    "ratio": 7,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF21(100K)",
+    "size": 20,
+    "ratio": 10,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QI2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF21(100K)",
+    "size": 20,
+    "ratio": 15,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF21(100K)",
+    "size": 20,
+    "ratio": 20,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF21(100K)",
+    "size": 20,
+    "ratio": 25,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF21(100K)",
+    "size": 32,
+    "ratio": 10,
+    "model": "EES-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_EES-QC2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF21(100K)",
+    "size": 32,
+    "ratio": 15,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF21(100K)",
+    "size": 32,
+    "ratio": 20,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF21(100K)",
+    "size": 32,
+    "ratio": 25,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF21(100K)",
+    "size": 32,
+    "ratio": 30,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF21(100K)",
+    "size": 32,
+    "ratio": 35,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF21(100K)",
+    "size": 32,
+    "ratio": 40,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF21(100K)",
+    "size": 32,
+    "ratio": 45,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF21(100K)",
+    "size": 32,
+    "ratio": 50,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF71(100K)",
+    "size": 20,
+    "ratio": 3,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF71(100K)",
+    "size": 20,
+    "ratio": 4,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF71(100K)",
+    "size": 20,
+    "ratio": 5,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF71(100K)",
+    "size": 20,
+    "ratio": 7,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF71(100K)",
+    "size": 20,
+    "ratio": 10,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QI2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF71(100K)",
+    "size": 20,
+    "ratio": 15,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF71(100K)",
+    "size": 20,
+    "ratio": 20,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF71(100K)",
+    "size": 20,
+    "ratio": 25,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF71(100K)",
+    "size": 32,
+    "ratio": 10,
+    "model": "EES-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_EES-QC2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF71(100K)",
+    "size": 32,
+    "ratio": 15,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF71(100K)",
+    "size": 32,
+    "ratio": 20,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF71(100K)",
+    "size": 32,
+    "ratio": 25,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF71(100K)",
+    "size": 32,
+    "ratio": 30,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF71(100K)",
+    "size": 32,
+    "ratio": 35,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF71(100K)",
+    "size": 32,
+    "ratio": 40,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF71(100K)",
+    "size": 32,
+    "ratio": 45,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AF71(100K)",
+    "size": 32,
+    "ratio": 50,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AK71(100K)",
+    "size": 20,
+    "ratio": 3,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AK71(100K)",
+    "size": 20,
+    "ratio": 4,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AK71(100K)",
+    "size": 20,
+    "ratio": 5,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AK71(100K)",
+    "size": 20,
+    "ratio": 7,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AK71(100K)",
+    "size": 20,
+    "ratio": 10,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QI2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AK71(100K)",
+    "size": 20,
+    "ratio": 15,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AK71(100K)",
+    "size": 20,
+    "ratio": 20,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AK71(100K)",
+    "size": 20,
+    "ratio": 25,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AK71(100K)",
+    "size": 32,
+    "ratio": 10,
+    "model": "EES-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_EES-QC2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AK71(100K)",
+    "size": 32,
+    "ratio": 15,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AK71(100K)",
+    "size": 32,
+    "ratio": 20,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AK71(100K)",
+    "size": 32,
+    "ratio": 25,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AK71(100K)",
+    "size": 32,
+    "ratio": 30,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AK71(100K)",
+    "size": 32,
+    "ratio": 35,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AK71(100K)",
+    "size": 32,
+    "ratio": 40,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AK71(100K)",
+    "size": 32,
+    "ratio": 45,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7042-5AK71(100K)",
+    "size": 32,
+    "ratio": 50,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AF21(100K)",
+    "size": 20,
+    "ratio": 3,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AF21(100K)",
+    "size": 20,
+    "ratio": 4,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AF21(100K)",
+    "size": 20,
+    "ratio": 5,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AF21(100K)",
+    "size": 20,
+    "ratio": 7,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AF21(100K)",
+    "size": 20,
+    "ratio": 10,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QI2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AF21(100K)",
+    "size": 20,
+    "ratio": 15,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AF21(100K)",
+    "size": 20,
+    "ratio": 20,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AF21(100K)",
+    "size": 20,
+    "ratio": 25,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AF21(100K)",
+    "size": 32,
+    "ratio": 10,
+    "model": "EES-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_EES-QC2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AF21(100K)",
+    "size": 32,
+    "ratio": 15,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AF21(100K)",
+    "size": 32,
+    "ratio": 20,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AF21(100K)",
+    "size": 32,
+    "ratio": 25,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AF21(100K)",
+    "size": 32,
+    "ratio": 30,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AF21(100K)",
+    "size": 32,
+    "ratio": 35,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AF21(100K)",
+    "size": 32,
+    "ratio": 40,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AF21(100K)",
+    "size": 32,
+    "ratio": 45,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AF21(100K)",
+    "size": 32,
+    "ratio": 50,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AH71(100K)",
+    "size": 20,
+    "ratio": 3,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AH71(100K)",
+    "size": 20,
+    "ratio": 4,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AH71(100K)",
+    "size": 20,
+    "ratio": 5,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AH71(100K)",
+    "size": 20,
+    "ratio": 7,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AH71(100K)",
+    "size": 20,
+    "ratio": 10,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QI2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AH71(100K)",
+    "size": 20,
+    "ratio": 15,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AH71(100K)",
+    "size": 20,
+    "ratio": 20,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AH71(100K)",
+    "size": 20,
+    "ratio": 25,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AH71(100K)",
+    "size": 32,
+    "ratio": 10,
+    "model": "EES-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_EES-QC2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AH71(100K)",
+    "size": 32,
+    "ratio": 15,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AH71(100K)",
+    "size": 32,
+    "ratio": 20,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AH71(100K)",
+    "size": 32,
+    "ratio": 25,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AH71(100K)",
+    "size": 32,
+    "ratio": 30,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AH71(100K)",
+    "size": 32,
+    "ratio": 35,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AH71(100K)",
+    "size": 32,
+    "ratio": 40,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AH71(100K)",
+    "size": 32,
+    "ratio": 45,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AH71(100K)",
+    "size": 32,
+    "ratio": 50,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AK71(100K)",
+    "size": 20,
+    "ratio": 3,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AK71(100K)",
+    "size": 20,
+    "ratio": 4,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AK71(100K)",
+    "size": 20,
+    "ratio": 5,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AK71(100K)",
+    "size": 20,
+    "ratio": 7,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AK71(100K)",
+    "size": 20,
+    "ratio": 10,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QI2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AK71(100K)",
+    "size": 20,
+    "ratio": 15,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AK71(100K)",
+    "size": 20,
+    "ratio": 20,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AK71(100K)",
+    "size": 20,
+    "ratio": 25,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AK71(100K)",
+    "size": 32,
+    "ratio": 10,
+    "model": "EES-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_EES-QC2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AK71(100K)",
+    "size": 32,
+    "ratio": 15,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AK71(100K)",
+    "size": 32,
+    "ratio": 20,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AK71(100K)",
+    "size": 32,
+    "ratio": 25,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AK71(100K)",
+    "size": 32,
+    "ratio": 30,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AK71(100K)",
+    "size": 32,
+    "ratio": 35,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AK71(100K)",
+    "size": 32,
+    "ratio": 40,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AK71(100K)",
+    "size": 32,
+    "ratio": 45,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7043-7AK71(100K)",
+    "size": 32,
+    "ratio": 50,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AF71(100K)",
+    "size": 20,
+    "ratio": 3,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AF71(100K)",
+    "size": 20,
+    "ratio": 4,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AF71(100K)",
+    "size": 20,
+    "ratio": 5,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AF71(100K)",
+    "size": 20,
+    "ratio": 7,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AF71(100K)",
+    "size": 20,
+    "ratio": 10,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QI2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AF71(100K)",
+    "size": 20,
+    "ratio": 15,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AF71(100K)",
+    "size": 20,
+    "ratio": 20,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AF71(100K)",
+    "size": 32,
+    "ratio": 10,
+    "model": "EES-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_EES-QC2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AF71(100K)",
+    "size": 32,
+    "ratio": 15,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AF71(100K)",
+    "size": 32,
+    "ratio": 20,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AF71(100K)",
+    "size": 32,
+    "ratio": 25,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AF71(100K)",
+    "size": 32,
+    "ratio": 30,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AF71(100K)",
+    "size": 32,
+    "ratio": 35,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AF71(100K)",
+    "size": 32,
+    "ratio": 40,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AF71(100K)",
+    "size": 32,
+    "ratio": 45,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AF71(100K)",
+    "size": 32,
+    "ratio": 50,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AH71(100K)",
+    "size": 20,
+    "ratio": 3,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AH71(100K)",
+    "size": 20,
+    "ratio": 4,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AH71(100K)",
+    "size": 20,
+    "ratio": 5,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AH71(100K)",
+    "size": 20,
+    "ratio": 7,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AH71(100K)",
+    "size": 20,
+    "ratio": 10,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QI2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AH71(100K)",
+    "size": 20,
+    "ratio": 15,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AH71(100K)",
+    "size": 20,
+    "ratio": 20,
+    "model": "ECS-QB2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-20A-XX-J_ECS-QB2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AH71(100K)",
+    "size": 32,
+    "ratio": 10,
+    "model": "EES-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_EES-QC2"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AH71(100K)",
+    "size": 32,
+    "ratio": 15,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AH71(100K)",
+    "size": 32,
+    "ratio": 20,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AH71(100K)",
+    "size": 32,
+    "ratio": 25,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AH71(100K)",
+    "size": 32,
+    "ratio": 30,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AH71(100K)",
+    "size": 32,
+    "ratio": 35,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AH71(100K)",
+    "size": 32,
+    "ratio": 40,
+    "model": "ECS-QI2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QI2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AH71(100K)",
+    "size": 32,
+    "ratio": 45,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
+  },
+  {
+    "maker": "SIEMENS",
+    "series": "1FK7044-7AH71(100K)",
+    "size": 32,
+    "ratio": 50,
+    "model": "ECS-QC2",
+    "downloadUrl": "https://samickhdsdown.imweb.me/HPN-32A-XX-J_ECS-QC2-2s"
   }
 ]
